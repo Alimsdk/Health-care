@@ -1,0 +1,42 @@
+{
+    "services":[
+        {  "id":"1",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x1.png.pagespeed.ic.x3qDs-wH_Z.webp",
+            "title":"Eye Care",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        },
+        {"id":"2",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x2.png.pagespeed.ic.uaL3VgmWbh.webp",
+            "title":"Physical Therapy",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        },
+        {
+            "id":"3",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x3.png.pagespeed.ic.zpAN733a8c.webp",
+            "title":"Dental Care",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        },
+        {   "id":"4",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x4.png.pagespeed.ic.28IHJtAY2d.webp",
+            "title":"Diagnostic Test",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        },
+        {   "id":"5",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x5.png.pagespeed.ic.AJvtqHVhNN.webp",
+            "title":"Skin Surgery",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        },
+        {  
+            "id":"6",
+            "img":"https://preview.colorlib.com/theme/docmed/img/department/x6.png.pagespeed.ic.H_Jz9l-DBS.webp",
+            "title":"Surgery Services",
+            "desc":"Esteem spirit temper too say adieus who direct esteem."
+
+        }
+    ]
+}
